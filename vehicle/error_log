@@ -1,0 +1,2 @@
+[02-Mar-2015 17:26:40 Asia/Kolkata] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/maalgaadimain/public_html/newone/includes/common_functions.php on line 123
+[02-Mar-2015 17:26:40 Asia/Kolkata] PHP Warning:  date_format() expects parameter 1 to be DateTime, boolean given in /home/maalgaadimain/public_html/newone/includes/common_functions.php on line 123

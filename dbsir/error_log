@@ -1,0 +1,4 @@
+[21-Apr-2015 05:52:25 UTC] PHP Fatal error:  Allowed memory size of 629145600 bytes exhausted (tried to allocate 123 bytes) in /home/maalgaadimain/public_html/newone/dbsir/dbUpload.php on line 24
+[21-Apr-2015 05:53:37 UTC] PHP Fatal error:  Allowed memory size of 629145600 bytes exhausted (tried to allocate 123 bytes) in /home/maalgaadimain/public_html/newone/dbsir/dbUpload.php on line 24
+[21-Apr-2015 05:55:58 UTC] PHP Fatal error:  Allowed memory size of 629145600 bytes exhausted (tried to allocate 123 bytes) in /home/maalgaadimain/public_html/newone/dbsir/dbUpload.php on line 24
+[21-Apr-2015 05:56:02 UTC] PHP Fatal error:  Allowed memory size of 629145600 bytes exhausted (tried to allocate 123 bytes) in /home/maalgaadimain/public_html/newone/dbsir/dbUpload.php on line 24

@@ -1,0 +1,3 @@
+[13-May-2015 22:16:42 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$connection' (T_VARIABLE) in /home/maalgaadimain/public_html/newTest/newTesting/newone/includes/class/class.connect.php on line 40
+[13-May-2015 22:16:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$connection' (T_VARIABLE) in /home/maalgaadimain/public_html/newTest/newTesting/newone/includes/class/class.connect.php on line 40
+[14-May-2015 17:31:28 Asia/Kolkata] PHP Fatal error:  Out of memory (allocated 262144) (tried to allocate 3072 bytes) in /home/maalgaadimain/public_html/newTest/newTestLi/includes/class/class.connect.php on line 18

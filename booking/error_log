@@ -1,0 +1,15 @@
+[03-Mar-2015 20:13:18 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/maalgaadimain/public_html/newone/includes/class/class.connect.php on line 80
+[03-Mar-2015 20:14:22 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/maalgaadimain/public_html/newone/includes/class/class.connect.php on line 80
+[03-Mar-2015 20:30:19 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/maalgaadimain/public_html/newone/includes/class/class.connect.php on line 80
+[03-Mar-2015 20:30:45 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/maalgaadimain/public_html/newone/includes/class/class.connect.php on line 80
+[03-Mar-2015 20:31:13 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/maalgaadimain/public_html/newone/includes/class/class.connect.php on line 80
+[03-Mar-2015 20:31:45 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/maalgaadimain/public_html/newone/includes/class/class.connect.php on line 80
+[04-Mar-2015 11:13:53 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/maalgaadimain/public_html/newone/includes/class/class.connect.php on line 80
+[04-Mar-2015 12:09:16 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/maalgaadimain/public_html/newone/includes/class/class.connect.php on line 80
+[04-Mar-2015 12:14:06 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/maalgaadimain/public_html/newone/includes/class/class.connect.php on line 80
+[04-Mar-2015 16:23:11 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/maalgaadimain/public_html/newone/includes/class/class.connect.php on line 80
+[04-Mar-2015 16:34:59 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/maalgaadimain/public_html/newone/includes/class/class.connect.php on line 80
+[05-Mar-2015 11:43:09 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/maalgaadimain/public_html/newone/includes/class/class.connect.php on line 80
+[21-Apr-2015 20:53:51 Asia/Kolkata] PHP Fatal error:  Call to undefined function mysql_fetch_asssoc() in /home/maalgaadimain/public_html/newone/booking/booking_data.php on line 40
+[21-Apr-2015 20:54:09 Asia/Kolkata] PHP Fatal error:  Call to undefined function mysql_fetch_asssoc() in /home/maalgaadimain/public_html/newone/booking/booking_data.php on line 40
+[21-Apr-2015 20:54:52 Asia/Kolkata] PHP Fatal error:  Call to undefined function mysql_fetch_asssoc() in /home/maalgaadimain/public_html/newone/booking/booking_data.php on line 44
